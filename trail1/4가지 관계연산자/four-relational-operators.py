@@ -1,0 +1,5 @@
+a, b = input().split()
+print(int(a>=b))
+print(int(a>b))
+print(int(b>=a))
+print(int(b>a))
